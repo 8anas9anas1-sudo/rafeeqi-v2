@@ -1,2 +1,4 @@
-*.7z
-*.deb
+node_modules/
+dist/
+.env
+.DS_Store
